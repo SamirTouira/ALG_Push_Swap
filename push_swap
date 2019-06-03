@@ -1,0 +1,2 @@
+<?php
+$la = array_slice($argv,1, $argc-1);
